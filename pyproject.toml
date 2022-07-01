@@ -2,7 +2,7 @@
 name = "ASCII-ART-GENERATOR"
 version = "0.1.8"
 description = "Convert Images and Texts Into ASCII Art."
-authors = ["freeking219314@gmail.com"]
+authors = ["freeking219314 | Forked by Hydrovolter"]
 
 [tool.poetry.dependencies]
 python = ">=3.8.0,<3.9"
